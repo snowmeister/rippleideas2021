@@ -21,7 +21,7 @@ export function App() {
           <div className="pt-4 text-left mx-8 px-8 text-snowmeister-400 font-light " >
             <p className="pt-4 text-left text-xl leading-8 "><strong className="font-bold">Hello! </strong> I'm Mark, also known as Snowmeister. I'm a full-stack software engineer with over 25 yrs experience across a wide range of industries, from recruitment, streaming media and online gaming to travel, digital signage and most recently cybersecurity. </p>
             <div class="mx-auto  w-3/5 pt-3 my-3 border-b-2 border-snowmeister-200 opacity-75"></div>
-            <TextRegion>Based in Fareham in the UK, by day I'm a software engineer at <TextLink text="Threat Status" link="https://www.threatstatus.com/" />, with a main focus on UI/UX, building sophisticated front-ends with ReactJS for a range of award-winning and innovative cyber-security products. </TextRegion>
+            <TextRegion>Based in Fareham in the UK, by day I'm a software engineer at <TextLink text="Threat Status" link="https://www.threatstatus.com/" />, with a main focus on UI/UX, building sophisticated front-ends with ReactJS for a range of award-winning and innovative cybersecurity products. </TextRegion>
             <TextRegion>
             I also enjoy coding on side projects, usually just for fun, to keep my claws sharp and to keep up with emerging technolgies and techniques.
             </TextRegion>
