@@ -1,6 +1,10 @@
 module.exports = {
   future: {},
-  purge: [],
+  purge: [
+    './src/**/*.html',
+    './src/**/*.vue',
+    './src/**/*.jsx',
+  ],
   theme: {
     extend: {
       fontFamily: {
