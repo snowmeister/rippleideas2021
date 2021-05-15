@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;600&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+
+margin: 0;
+padding: 0;
+
+
+/* Grab the image from Unsplash... */
+background-image: url('https://source.unsplash.com/USXfF_ONUGo');
+
+/* Center the image vertically and horizontally */
+background-position: center center;
+
+/* Let's not tile it! */
+background-repeat: no-repeat;
+
+/* Keep it fixed to stop it misbehaving...scoll content over the top */
+background-attachment: fixed;
+
+/* Ensure */
+background-size: cover;
+
+/* Set a background color that will be displayed
+while the background image is loading */
+background-color: #c3c3c3;
+}
+
+
+
