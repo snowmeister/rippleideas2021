@@ -31,3 +31,38 @@ background-color: #c3c3c3;
 
 
 
+
+.text-shadow {
+  text-shadow: 0 2px 4px rgba(0,0,0,0.10);
+}
+
+.text-shadow-md {
+  text-shadow: 0 4px 8px rgba(0,0,0,0.12), 0 2px 4px rgba(0,0,0,0.08);
+}
+
+.text-shadow-lg {
+  text-shadow: 0 15px 30px rgba(0,0,0,0.11), 0 5px 15px rgba(0,0,0,0.08);
+}
+
+.text-shadow-none {
+  text-shadow: none;
+}
+
+
+
+.text-shadow-white {
+  text-shadow: 2px 2px 4px rgba(255,255,255,0.80);
+}
+
+.text-shadow-white-md {
+  text-shadow: 4px 4px 8px rgba(255,255,255,0.82), 0 2px 4px rgba(255,255,255,1);
+}
+
+.text-shadow-white-lg {
+  text-shadow: 15px 15px 30px rgba(255,255,255,0.8), 0 5px 15px rgba(255,255,255,1);
+}
+
+.text-shadow-white-none {
+  text-shadow: none;
+}
+
