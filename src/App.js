@@ -8,12 +8,11 @@ import HorizontalRule from './components/HorizontalRule';
 import SocialBar from './components/SocialBar';
 
 
-
 export function App() {
   return (
     <div id="app" className="font-nunito max-w-4xl flex items-center h-auto h-screen flex-wrap mx-auto my-8 leading-7 ">
       <div className="w-full mt-24 mx-8  ">
-        <div className="rounded-xl  p-4 md:p-12 text-center bg-snowmeister-100 bg-opacity-75  shadow-xl">
+        <div className="rounded-xl  p-4 md:p-12 text-center bg-snowmeister-100 bg-opacity-50 shadow-xl">
             <Me />
           <h1 className="text-3xl leading-8 font-bold pt-8 font-nunito text-snowmeister-400 text-shadow-white">Mark Kennard <br /><small className="text-md opacity-80 text-shadow-white">AKA Snowmeister</small></h1>
           <p className="pt-4 text-base font-bold flex items-center justify-center text-snowmeister-400 text-shadow-white">Software Engineer / Foodie / Conure Sidekick</p>
