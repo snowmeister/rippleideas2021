@@ -14,6 +14,6 @@ import React from 'react'
 
 export default function HorizontalRule() {
   return (
-    <div class="mx-auto  w-3/5 pt-3 mt-4 border-b-2 border-snowmeister-200 opacity-75"></div>
+    <div className="mx-auto  w-3/5 pt-3 mt-4 border-b-2 border-snowmeister-200 opacity-75"></div>
   )
 }
