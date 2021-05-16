@@ -1,9 +1,10 @@
 module.exports = {
   future: {},
   purge: [
-    './src/**/*.html',
-    './src/**/*.vue',
-    './src/**/*.jsx',
+    "./public/**/*.html",
+    "./src/**/*.js",
+    "./src/**/*.jsx",
+    "./src/**/*.tsx",
   ],
   theme: {
     extend: {

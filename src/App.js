@@ -9,7 +9,7 @@ export function App() {
   return (
     <div id="app" className="font-nunito max-w-4xl flex items-center h-auto h-screen flex-wrap mx-auto my-12 leading-7 ">
       <div className="w-full mt-32 mx-8  ">
-        <div className="rounded-lg  p-4 md:p-12 text-center bg-gradient-to-t via-snowmeister-100 via-snowmeister-100 from-transparent shadow-xl">
+        <div className="rounded-xl  p-4 md:p-12 text-center bg-snowmeister-100 bg-opacity-75  shadow-xl">
             <Me />
           <h1 className="text-3xl leading-8 font-bold pt-8 font-nunito text-snowmeister-400 text-shadow-white">Mark Kennard <br /><small className="text-md opacity-80 text-shadow-white">AKA Snowmeister</small></h1>
           <div class="mx-auto  w-3/5 pt-3 my-4 border-b-2 border-snowmeister-200 opacity-75"></div>
