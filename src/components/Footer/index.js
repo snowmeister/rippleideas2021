@@ -14,8 +14,8 @@ import React from 'react'
 
 export default function Footer(props) {
   return (
-    <div className="w-full h-2/8 bg-snowmeister-100">
-      <div className="mt-0 m-4 p-4 text-center text-snowmeister-400 text-shadow-white text-xs">&copy; 2021 - Mark Kennard - All rights reserved</div>
+    <div className="w-full mt-4 ">
+      <div className="mt-0  p-4 text-center text-snowmeister-400 text-shadow-white text-xs">&copy; 2021 - Mark Kennard - All rights reserved</div>
     </div>
   )
 }

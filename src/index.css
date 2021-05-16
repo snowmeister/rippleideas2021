@@ -3,6 +3,13 @@
 @tailwind components;
 @tailwind utilities;
 
+
+html{
+  height: 100vh; /* set viewport constraint */
+  min-height: 100%; /* enforce height */
+}
+
+
 body{
 
 margin: 0;
@@ -27,6 +34,8 @@ background-size: cover;
 /* Set a background color that will be displayed
 while the background image is loading */
 background-color: #ffffff;
+
+-webkit-background-size: cover; /* safari may need this */
 }
 
 
