@@ -1,0 +1,30 @@
+{
+	"data": [{
+		"title": "Tesla",
+		"subject": "Automotive",
+		"description": "A look at the Tesla Model 3, an electric saloon that aims to go head-to-head with the established big sellers in the compact executive car class. From their headquarters in Los Angeles this spring Tesla motor company founder and CEO, Elon Musk, took to the stage to unveil the new mass-market, Tesla model 3. This much-awaited car is the latest release from the dynamic Electric Vehicle (EV) sector. Positioning the car as an environmental game- changer Musk explained, \"We have record CO2 levels, recently passing 403 parts per million. The last time there was this level of carbon concentration it was 11 million years ago. It's very important to accelerate the transition to sustainable transport.\" ",
+		"download": "Tesla-2016.pdf",
+		"preview": "Tesla1-2016-353x500.jpeg"
+	},{
+		"title": "Fintech",
+		"subject": "Finance",
+		"description": "The global financial sector has received its fair share of media coverage over the last decade, mostly unflattering. Now a new story is emerging, one that shows the evolution of consumer-based banking services. Going by the portmanteau, Fintech, this expanding sector represents a raft of new technology companies entering the financial sector and in some cases disrupting consumer/banking relationships and overhauling how we interact with both banks and personal finance.",
+		"download": "Fintech.pdf",
+		"preview": "Fintech-1-featured-image-500x340.png"
+	
+	},{
+		"title": "Highlands Win Investment Deal",
+		"subject": "Finance and Infrastructure",
+		"description": "In March 2016 it was confirmed that Inverness and the wider Highlands area would benefit from a £315 million potential to transform the economy of Inverness and the Highlands. City Deals are all about unlocking the economic opportunities for a city and this deal could leverage in private money that makes the total package for Inverness something nearer to £1 billion. This is a very exciting time for the city and the region.” The city of Inverness and the wider Highlands offers a unique and globally recognised environment to live, work, study and visit.",
+		"download": "Highlands.pdf",
+		"preview": "Highlands-1-featured-image-150x150.png"
+	}
+  ,{
+		"title": "Sweden On Top",
+		"subject": "Business",
+		"description": "The charming city of Gothenburg sits on the southwest coast of Sweden, at the mouth of the river Älv. The city proper has a population of 506,083 and is second only to Sweden’s capital, Stockholm. Today it is thought of as a city of industry, a harbour, trading centre and cultural meeting place at the crossroads between Copenhagen, Oslo, and Stockholm. Founded in 1621 by King Gustavus Adolphus, the city’s look was heavily influenced by Dutch city planners who were contracted to build the city due to their specialist skills in dealing with marshy ground. The town itself was planned to have canals like Amsterdam, and the blueprint for the canals of Gothenburg is actually the same as those used for Jakarta.",
+		"download": "Sweden.pdf",
+		"preview": "Sweden-1Jp-381x500.jpeg"
+	}
+]
+}

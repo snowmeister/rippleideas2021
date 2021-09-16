@@ -15,16 +15,31 @@ module.exports = {
         "snowmeister": {
           "50": "#ffffff",
           "100": "#f6f8f9",
-          "200": "#c4ced4",
-          "300": "#8ea2ae",
-          "400": "#607785",
-          "500": "#3c4a53",
-          "600": "#313d44",
-          "700": "#293238",
-          "800": "#1e252a",
-          "900": "#151a1e"
+          "200": "#88B1A7",
+          "300": "#3a544e",
+          "400": "#334d4a",
+          "500": "#3a544e",
+          "600": "#3a544e",
+          "700": "#334d4a",
+          "800": "#363233",
+          "900": "#3a544e"
         }
-      }
+      },
+      keyframes: {
+        'fade-in-down': {
+            '0%': {
+                opacity: '0',
+                transform: 'translateY(-10px)'
+            },
+            '100%': {
+                opacity: '1',
+                transform: 'translateY(0)'
+            },
+        }
+    },
+    animation: {
+        'fade-in-down': 'fade-in-down 0.5s ease-out'
+    }
     }
   },
   variants: {},

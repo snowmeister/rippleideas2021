@@ -12,13 +12,12 @@ html{
 
 body{
 
-margin: 4em 0;
+margin: 0;
 padding: 0;
 
 
 /* Grab the image from Unsplash... */
-background-image: url('https://source.unsplash.com/USXfF_ONUGo');
-
+background-image: url('https://images.unsplash.com/photo-1432821596592-e2c18b78144f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1400&q=80');
 /* Center the image vertically and horizontally */
 background-position: center center;
 
@@ -75,3 +74,90 @@ background-color: #ffffff;
   text-shadow: none;
 }
 
+.portfolio-img{
+  width: 150px;
+  height: auto;
+  background-color: white;;
+}
+.spin {
+  -webkit-animation: spin 2s infinite linear;
+          animation: spin 2s infinite linear;
+}
+@keyframes spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(359deg);
+            transform: rotate(359deg);
+  }
+}
+
+@-webkit-keyframes spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(359deg);
+            transform: rotate(359deg);
+  }
+}
+
+
+
+.fade-in {
+  animation: animation-fade-in 1s;
+}
+
+.fade-in-fast {
+  animation: animation-fade-in 0.3s;
+}
+
+.fade-in-slow {
+  animation: animation-fade-in 1.5s;
+}
+
+@keyframes animation-fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes animation-fade-in-fast {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes animation-fade-in-slow {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+
+
+hr {
+  margin: 12px 0;
+  border: 0;
+  text-align: center;
+  
+}
+
+hr::before{
+    content: "\2022 \2022 \2022 \2022 \2022";
+    font-size: 25px;
+    color: #88B1A7;
+    margin: 2em 4em;
+}
