@@ -36,7 +36,7 @@ export function App() {
               setShowPortfolio(!showPortfolio);
               
               return false;
-            }} className="bg-snowmeister-700 hover:bg-snowmeister-600  text-snowmeister-50 shadow-lg font-bold py-2 px-4 mr-1 mt-8 rounded inline-flex items-center " target="_blank" rel="noopener noreferrer">
+            }} className="bg-snowmeister-700 hover:bg-snowmeister-600  text-snowmeister-50 shadow-lg font-bold py-2 px-4 mr-1 mt-8 rounded  items-center hidden md:inline-flex" target="_blank" rel="noopener noreferrer">
             
             {showPortfolio && <FaEyeSlash className="w-4 h-4 mr-2 currentColor" />} 
             {!showPortfolio && <FaEye className="w-4 h-4 mr-2 currentColor" />} 
@@ -45,10 +45,10 @@ export function App() {
             my portfolio</span></a>
             <a className="bg-snowmeister-700 hover:bg-snowmeister-600  text-snowmeister-50 shadow-lg font-bold py-2 px-4 ml-1 mt-8 rounded inline-flex items-center " target="_blank" rel="noopener noreferrer" href="mailto:claireq@hotmail.com?subject=Message from RippleIdeas site visitor.."><RiMailSendLine className="w-4 h-4 mr-2 currentColor" /><span>Get in touch</span></a>
           </div>
-          {showPortfolio && <div className="animate-fade-in-down"><PortfolioViewer /></div>}
-          {showPortfolio &&<button className="mt-4" onClick={()=>{
+          {showPortfolio && <div className="animate-fade-in-down hidden md:block"><PortfolioViewer /></div>}
+          {showPortfolio && <div className="flex flex-wrap content-center justify-center"><button className="mt-4 hidden md:block place-self-center" onClick={()=>{
             window.scrollTo({top: 0, behavior: 'smooth'});
-          }}>Back to top</button>}
+          }}>Back to top</button></div>}
           <Footer />
         </div>
       </div>
