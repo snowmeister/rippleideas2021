@@ -1,30 +1,149 @@
 {
-	"data": [{
-		"title": "Tesla",
-		"subject": "Automotive",
-		"description": "A look at the Tesla Model 3, an electric saloon that aims to go head-to-head with the established big sellers in the compact executive car class. From their headquarters in Los Angeles this spring Tesla motor company founder and CEO, Elon Musk, took to the stage to unveil the new mass-market, Tesla model 3. This much-awaited car is the latest release from the dynamic Electric Vehicle (EV) sector. Positioning the car as an environmental game- changer Musk explained, \"We have record CO2 levels, recently passing 403 parts per million. The last time there was this level of carbon concentration it was 11 million years ago. It's very important to accelerate the transition to sustainable transport.\" ",
-		"download": "Tesla-2016.pdf",
-		"preview": "Tesla1-2016-353x500.jpeg"
-	},{
-		"title": "Fintech",
-		"subject": "Finance",
-		"description": "The global financial sector has received its fair share of media coverage over the last decade, mostly unflattering. Now a new story is emerging, one that shows the evolution of consumer-based banking services. Going by the portmanteau, Fintech, this expanding sector represents a raft of new technology companies entering the financial sector and in some cases disrupting consumer/banking relationships and overhauling how we interact with both banks and personal finance.",
-		"download": "Fintech.pdf",
-		"preview": "Fintech-1-featured-image-500x340.png"
-	
-	},{
-		"title": "Highlands Win Investment Deal",
-		"subject": "Finance and Infrastructure",
-		"description": "In March 2016 it was confirmed that Inverness and the wider Highlands area would benefit from a £315 million potential to transform the economy of Inverness and the Highlands. City Deals are all about unlocking the economic opportunities for a city and this deal could leverage in private money that makes the total package for Inverness something nearer to £1 billion. This is a very exciting time for the city and the region.” The city of Inverness and the wider Highlands offers a unique and globally recognised environment to live, work, study and visit.",
-		"download": "Highlands.pdf",
-		"preview": "Highlands-1-featured-image-150x150.png"
-	}
-  ,{
-		"title": "Sweden On Top",
-		"subject": "Business",
-		"description": "The charming city of Gothenburg sits on the southwest coast of Sweden, at the mouth of the river Älv. The city proper has a population of 506,083 and is second only to Sweden’s capital, Stockholm. Today it is thought of as a city of industry, a harbour, trading centre and cultural meeting place at the crossroads between Copenhagen, Oslo, and Stockholm. Founded in 1621 by King Gustavus Adolphus, the city’s look was heavily influenced by Dutch city planners who were contracted to build the city due to their specialist skills in dealing with marshy ground. The town itself was planned to have canals like Amsterdam, and the blueprint for the canals of Gothenburg is actually the same as those used for Jakarta.",
-		"download": "Sweden.pdf",
-		"preview": "Sweden-1Jp-381x500.jpeg"
-	}
-]
+	"data": [
+		{
+			"category": "Journalism",
+			"title": "Tesla",
+			"subject": "Automotive",
+			"description": "A look at the Tesla Model 3, an electric saloon that aims to go head-to-head with the established big sellers in the compact executive car class. From their headquarters in Los Angeles this spring Tesla motor company founder and CEO, Elon Musk, took to the stage to unveil the new mass-market, Tesla model 3. This much-awaited car is the latest release from the dynamic Electric Vehicle (EV) sector. Positioning the car as an environmental game- changer Musk explained, \"We have record CO2 levels, recently passing 403 parts per million. The last time there was this level of carbon concentration it was 11 million years ago. It's very important to accelerate the transition to sustainable transport.\" ",
+			"download": "Tesla-2016.pdf",
+			"preview": "Tesla1-2016-353x500.jpeg"
+		},
+		{
+			"category": "Journalism",
+			"title": "Fintech",
+			"subject": "Finance",
+			"description": "The global financial sector has received its fair share of media coverage over the last decade, mostly unflattering. Now a new story is emerging, one that shows the evolution of consumer-based banking services. Going by the portmanteau, Fintech, this expanding sector represents a raft of new technology companies entering the financial sector and in some cases disrupting consumer/banking relationships and overhauling how we interact with both banks and personal finance.",
+			"download": "Fintech.pdf",
+			"preview": "Fintech-1-featured-image-500x340.png"
+		},
+		{
+			"category": "Journalism",
+			"title": "Highlands Win Investment Deal",
+			"subject": "Finance and Infrastructure",
+			"description": "In March 2016 it was confirmed that Inverness and the wider Highlands area would benefit from a £315 million potential to transform the economy of Inverness and the Highlands. City Deals are all about unlocking the economic opportunities for a city and this deal could leverage in private money that makes the total package for Inverness something nearer to £1 billion. This is a very exciting time for the city and the region.” The city of Inverness and the wider Highlands offers a unique and globally recognised environment to live, work, study and visit.",
+			"download": "Highlands.pdf",
+			"preview": "Highlands-1-featured-image-150x150.png"
+		},
+		{
+			"category": "Journalism",
+			"title": "Sweden On Top",
+			"subject": "Business",
+			"description": "The charming city of Gothenburg sits on the southwest coast of Sweden, at the mouth of the river Älv. The city proper has a population of 506,083 and is second only to Sweden’s capital, Stockholm. Today it is thought of as a city of industry, a harbour, trading centre and cultural meeting place at the crossroads between Copenhagen, Oslo, and Stockholm. Founded in 1621 by King Gustavus Adolphus, the city’s look was heavily influenced by Dutch city planners who were contracted to build the city due to their specialist skills in dealing with marshy ground. The town itself was planned to have canals like Amsterdam, and the blueprint for the canals of Gothenburg is actually the same as those used for Jakarta.",
+			"download": "Sweden.pdf",
+			"preview": "Sweden-1Jp-381x500.jpeg"
+		},
+		{
+			"category": "Journalism",
+			"title": "Candy And Candy",
+			"subject": "Propery",
+			"description": "The headlines scream spending cuts, the politicians espouse austerity, and consumer confidence has tanked. But while the man/woman in the street is tightening their belt and cutting back on luxuries, London’s glitziest property moguls are rubbing their hands. That’s because the candy Brothers, Christian and Nick, have just turned over sales of £62m since January in the biggest recession since the Wall Street Crash. They’ve redefined luxury at the One Hyde Park development and taken opulence to a whole new level. The apartments were widely touted as costing from £5.6m for a one-bedroom starter home, up to £140m for a penthouse stack on the top three floors. The actual exchange prices according to the Land Registry figures show that one sixth floor property sold for £22m, with another on the sixth floor making £21.6m.",
+			"download": "Claire-Quin-New-European-Economy-April-2011-London-Property-1.pdf",
+			"preview": "Candy-Candy-212x300.jpeg"
+		},
+		{
+			"category": "Journalism",
+			"title": "Destination Czech Republic",
+			"subject": "Travel and tourism",
+			"description": "Ahead of this year’s summer break and conscious of everyone’s desire to spend wisely we took a look at some of eastern Europe’s top destinations. Although immensely popular within their own region, Czech Republic, Slovenia, Croatia, Romania and Bulgaria might not be the first choice for many western Europeans. With a little bit of investigation we show you how to find an unspoiled holiday destination where you won’t meet your neighbours. Getting to this side of Europe is now much easier due to several low cost airlines and the improved networking of European-wide rail passes. From the UK to Prague travellers can either take the afternoon Eurostar from London to Brussels and a connecting high-speed train to Cologne, then the excellent ‘Phoenix’ City Night Line sleeper to Prague.",
+			"download": "Claire-Quin-New-European-Economy-April-2011-Time-to-Czeck-in.pdf",
+			"preview": "CZECK1-212x300.jpeg"
+		},
+		{
+			"category": "Journalism",
+			"title": "Invest Macedonia",
+			"subject": "Business and investment",
+			"description": "As a result of a growing interest in Macedonia’s investment potential, a number of international companies have started operations in the country, both as greenfield projects and through different types of asset acquisition and privatisation. Some of the significant foreign investors include Johnson Matthey 9UK), Mobilkom Austria (Austria), EVN (Austria), T-Home (germany), Societe Generale (France), Johnson Controls (USA) and National Bank of Greece. Foreign Direct Investment in Macedonia totalled £598m in 2008. Taking a closer look at Macedonia, figures for investors stand up well – 10% corporate & personal income tax, amongst the lowest in Europe and 0% tax on retained earnings. The country has double taxation treaties with many European countries and as of November 2009 a change in the Law on Technological Industrial Development Zones ( TIDZs) allows 0% personal income tax for the first ten years.",
+			"download": "InvestMacedonia-2010.pdf",
+			"preview": "Macedonia-1-300x160.jpeg"
+		},
+		{
+			"category": "Journalism",
+			"title": "Bulgaria Shines",
+			"subject": "Business and Investment",
+			"description": "Throughout the noughties the two European Union candidate countries of Bulgaria and Romania were the main recipients of Foreign Direct Investment into South-East Europe. Typical of this was Telekom Austria’s acquisition of the telecom operator MobilTel and US firm, Viva Ventures, who took majority control of the Bulgarian Telecommunications Company. According to figures from the Bulgarian National Bank in 2009, the Netherlands, Austria and France were Bulgaria’s top three FDI providers. With Dutch companies investing an estimated 900m Euros. Similar research identifies the top three FDI companies as Solvay (Belgium – chemicals) AES (USA – electricity distribution) and Aurubis (Germany – cooper smelting). Overal the Dutch have been Bulgaria’s largest inward investor since 1999.",
+			"download": "Bulgaria2Jp-223x300.jpeg",
+			"preview": "Bulgaria2Jp-223x300.jpeg"
+		},
+		{
+			"category": "Journalism",
+			"title": "Invest Debrecen",
+			"subject": "Business and Investment",
+			"description": "The Hungarian city of Debrecen lies in the east of the country, 137 miles from Budapest. Located in the centre of what is known as the North Great Plain Region, Debrecen is also within easy reach of the Romanian and Ukrainian borders, 30 and 75 miles away respectively. Historically the city is first cited in 1235 and is believed to have been formed from the amalgamation of several small villages in the area. Conversely, today the city has developed into a thriving urban centre and is home to over 210,000 Hungarians. Due to its historic and cultural heritage, Debrecen is now one of the primary tourism destinations in Hungary. In addition the city offers a fantastic variety in health, wellness and conference tourism facilities.",
+			"download": "InvestDebrecen-2010.pdf",
+			"preview": "Debrecenjp-223x300.jpeg"
+		},
+		{
+			"category": "Journalism",
+			"title": "Invest Rakia",
+			"subject": "Business and Investment",
+			"description": "The United Arab Emirates (UAE) is a constitutional federation of seven emirates: Abu Dhabi, Dubai, Sharjah, Ajman, Umm Al Qaiwain, Ras Al Khaimah and Fujairah, and was formally established in 1971. The Federation occupies an area of 83,600 sq km along the southeastern tip of the Arabian Peninsula. Qatar lies to the west, Saudi Arabia to the south and west, and Oman to the north and east. The capital, and largest city of the federation, Abu Dhabi, is located in the emirate of the same name. Before 1971, the UAE was known as the Trucial States or Trucial Oman, in reference to the 19th century truce between the United Kingdom and several Arab Sheiks.",
+			"download": "InvestRakia-2010.pdf",
+			"preview": "RakiaJP-225x300.jpeg"
+		},
+		{
+			"category": "Journalism",
+			"title": "Ireland DPS",
+			"subject": "Business and Finance",
+			"description": "Ireland’s dynamic republic has come along way from joining the European Union in 1973. A country and economy still hiding its light under a bushel, when in January 1991, along with five other EU members it exchanged its indigenous currency for the Euro. The ensuing economic success in combination with this diminutive country’s geographical location makes it one of Europe’s hottest business tourism destinations. As a result Ireland’s republic now offers a unique blend of fashionable cities, beautiful countryside, and high- quality hotels. Corporate guests can now expect cutting-edge conferencing facilities set against a rich backdrop of History and culture. Ireland can cater for up to 8,000 delegates with over 900 hotels and 60,000 rooms to choose from. Its strength lies in its ability to offer excellent conference facilities ranging from luxurious castles to state-of-the-art purpose-built centers.",
+			"download": "Ireland_DPS.pdf",
+			"preview": "/Ireland_DPS-featured-image-150x150.png"
+		},
+		{
+			"category": "Copywriting",
+			"title": "SmartImpact – Data Governance and Integration",
+			"subject": "Client: EU and Manchester City Council",
+			"description": "This theme paper introduces the key development structures and challenges involved when building new, Smart municipal organisations. It acts as one in a series of outputs generated for SmartImpact, a two-year project funded by the European Regional Development Fund under the URBACT programme. The aim is to promote Smart, sustainable urban development, helping to make cities liveable with the support of technology.",
+			"download": "SmartImpact_Data-Gov-and-Intergration_A4_06-1-featured-image.png",
+			"preview": "SmartImpact_Data-Gov-and-Intergration_A4_06-1-featured-image-150x150.png"
+		}
+		,
+		{
+			"category": "Copywriting",
+			"title": "SmartImpact – Local Innovation Ecosystems",
+			"subject": "Client: EU and Manchester City Council",
+			"description": "This theme paper introduces the role of innovative ecosystems and how Smart municipalities can work to facilitate the network of innovators and entrepreneurs who drive them. It acts as one in a series of outputs generated for SmartImpact, a two-year project funded by the European Regional Development Fund under the URBACT programme. The aim is to promote Smart, sustainable urban development, helping to make cities more liveable with the support of technology.",
+			"download": "SmartImpact_Supporting-Local-Innovation-Ecosystems-_A4_06-212x300.jpeg",
+			"preview": "SmartImpact_Supporting-Local-Innovation-Ecosystems-_A4_06.jpeg"
+		}
+		,
+		{
+			"category": "Copywriting",
+			"title": " SmartImpact – Organisational Development",
+			"subject": "Client: EU and Manchester City Council",
+			"description": "This theme paper introduces the key organisational development structures and challenges involved when building new, Smart municipal organisations. It acts as one in a series of outputs generated for SmartImpact, a two year project funded by the European Regional Development Fund under the URBACT programme. The aim is to promote Smart, sustainable urban development, helping to make cities more liveable with the support of technology.",
+			"download": "SmartImpact_Organisational-Development_A4_06-212x300.jpeg",
+			"preview": "SmartImpact_Organisational-Development_A4_06.jpeg"
+		}	,{
+			"category": "Copywriting",
+			"title": " SmartImpact – Finance and Procurement",
+			"subject": "Client: EU and Manchester City Council",
+			"description": "This theme paper considers the key issues for the procurement and financing of innovative Smart technology solutions. It acts as one in a series of outputs generated for SmartImpact, a two-year project funded by the European Regional Development Fund under the URBACT programme. The aim is to promote Smart, sustainable urban development, helping to make cities more livable with the support of technology.",
+			"download":"SmartImpact_Smart-Finance-Procurement-Initiatives_A4_06.jpeg",
+			"preview":"SmartImpact_Smart-Finance-Procurement-Initiatives_A4_06-212x300.jpeg"
+		}
+			,{
+			"category": "Copywriting",
+			"title": " Housebuilding and Wellbeing",
+			"subject": "Client: Berkeley Homes",
+			"description": "A briefing paper for senior management at Berkeley Homes that collated all pertinent new research, data and policy release on Housebuilding and related impacts on wellbeing.",
+			"download":"Housebuilding-and-wellbeing-briefing-1-featured-image.png",
+			"preview":"Housebuilding-and-wellbeing-briefing-1-featured-image-300x277.png"
+		}
+			,{
+			"category": "Copywriting",
+			"title": " The Source – Internal newsletter",
+			"subject": "Client: BUNZL, (agency)",
+			"description": "Bunzl’s quarterly, A5, internal newsletter for over 16,000 staff across the globe. With a mix of news, interviews and who’s who this magazine acted as a genuine digest for many non-office based staff.  For privacy and data protection reasons, I am unable to post a complete version.",
+			"download":"The-Source-March-2011.pdf",
+			"preview":"The-Source-March-2011-212x300.jpeg"
+		}
+			,{
+			"category": "Copyeditting",
+			"title": " Manual for Creative Citizens",
+			"subject": "Client: Louise Wong @ Hong Kong Design Institute",
+			"description": "Home Street Home is a design study of Hong Kong’s Self-Built Communities. Based on a collective project with artist and academic Louise Wong, the resulting design book details an inspiring and sometimes overlooked community. All copyediting in English.",
+			"download":"Manual-for-Creative-Citizens-Yanki_26-May-2017-_-V6.docx",
+			"preview":"Home-Street-Home.jpg"
+		}
+	]
 }

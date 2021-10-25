@@ -46,6 +46,9 @@ export function App() {
             <a className="bg-snowmeister-700 hover:bg-snowmeister-600  text-snowmeister-50 shadow-lg font-bold py-2 px-4 ml-1 mt-8 rounded inline-flex items-center " target="_blank" rel="noopener noreferrer" href="mailto:claireq@hotmail.com?subject=Message from RippleIdeas site visitor.."><RiMailSendLine className="w-4 h-4 mr-2 currentColor" /><span>Get in touch</span></a>
           </div>
           {showPortfolio && <div className="animate-fade-in-down"><PortfolioViewer /></div>}
+          {showPortfolio &&<button className="mt-4" onClick={()=>{
+            window.scrollTo({top: 0, behavior: 'smooth'});
+          }}>Back to top</button>}
           <Footer />
         </div>
       </div>
